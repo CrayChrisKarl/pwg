@@ -9,7 +9,7 @@
 
 #   -h, --Help          Will display a MAN-like page. (Basically this intro part after some finishing touches. 
 #   -n, --Numbers       Will add numbers to the password.
-#   -c, --symbols    Will add symbols to the password.
+#   -s, --symbols    Will add symbols to the password.
 
 import os
 import random
